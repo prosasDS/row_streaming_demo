@@ -5,8 +5,6 @@ Hello Marcin, Ezequiel & team.
 
 After our talk this morning I investigated a bit about the TRAN operators and decided to make this project to apply them and also take this chance to show you what could I come up with for a data pipeline using the Stream functionality from Requests. 
 
-I hope I'm not assuming too much, but I really think I can be of use to your team. 
-
 Task: Company B needs a data pipeline that fetches data from company A's database (for which I made a mock API that outputs random data) and after applying some simple transformations on some columns, save it to company B's database. 
 
 Database prep: To make things simpler, I created company B's database with psql Shell beforhand (database_prerp.sql has a transcript of what I did in the shell). 
